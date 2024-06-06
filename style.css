@@ -31,14 +31,14 @@
     margin: 10px 0 50px;
 }
 
-form{
+form {
     background: #fff;
     display: flex;
     width: fit-content;
 
 }
 
-form input{
+form input {
     border: 0;
     outline: none;
     padding: 10px 20px;
